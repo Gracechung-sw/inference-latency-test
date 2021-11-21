@@ -1,0 +1,7 @@
+Lab_1_FastAPI_Docker Testing
+
+1. test for no-batch inference server
+
+Test if a user sends a wine prediction request to the /predict endpoint and returns the same result as expected
+
+
